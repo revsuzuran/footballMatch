@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created On : 10/25/18 10:03 PM
+  ~ Author : Aqil Prakoso
+  ~ Copyright (c) 2018 iRevStudio
+  ~
+  -->
+
+<resources>
+    <item name="nama_tim" type="id" />
+    <item name="logo_tim" type="id" />
+    <item name="LastMatch_homeSkor" type="id" />
+    <item name="lastMatch_homeName" type="id" />
+    <item name="lastMatch_homeLogo" type="id" />
+    <item name="lastMatch_awaySkor" type="id" />
+    <item name="lastMatch_awayName" type="id" />
+    <item name="lastMatch_awayLogo" type="id" />
+    <item name="lastMatch_homeSkor" type="id" />
+    <item name="nextMatch_homeName" type="id" />
+    <item name="nextMatch_homeSkor" type="id" />
+    <item name="nextMatch_awaySkor" type="id" />
+    <item name="nextMatch_awayName" type="id" />
+</resources>

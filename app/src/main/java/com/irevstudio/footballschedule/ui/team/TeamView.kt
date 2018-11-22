@@ -1,0 +1,16 @@
+/*
+ * Created On : 10/25/18 10:03 PM
+ * Author : Aqil Prakoso
+ * Copyright (c) 2018 iRevStudio
+ *
+ */
+
+package com.irevstudio.footballschedule.ui.team
+
+import com.irevstudio.footballschedule.model.Team
+
+interface TeamView {
+    fun showLoading()
+    fun hideLoading()
+    fun tampilkanListTim(data: List<Team>)
+}
